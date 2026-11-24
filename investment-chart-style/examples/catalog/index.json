@@ -1,0 +1,182 @@
+[
+  {
+    "stem": "01-line",
+    "type": "line",
+    "title": "折线与误差带",
+    "specification": "01-line.json"
+  },
+  {
+    "stem": "02-ranked",
+    "type": "ranked",
+    "title": "排序区间与森林图",
+    "specification": "02-ranked.json"
+  },
+  {
+    "stem": "03-violin",
+    "type": "violin",
+    "title": "小提琴叠加箱线图",
+    "specification": "03-violin.json"
+  },
+  {
+    "stem": "04-permutation",
+    "type": "permutation",
+    "title": "置换检验分布",
+    "specification": "04-permutation.json"
+  },
+  {
+    "stem": "05-ternary",
+    "type": "ternary",
+    "title": "三元概率与边际分布",
+    "specification": "05-ternary.json"
+  },
+  {
+    "stem": "06-heatmap",
+    "type": "heatmap",
+    "title": "数值热力图",
+    "specification": "06-heatmap.json"
+  },
+  {
+    "stem": "07-bar",
+    "type": "bar",
+    "title": "单系列柱状与条形图",
+    "specification": "07-bar.json"
+  },
+  {
+    "stem": "08-grouped_bar",
+    "type": "grouped_bar",
+    "title": "分组柱状图",
+    "specification": "08-grouped_bar.json"
+  },
+  {
+    "stem": "09-stacked_bar",
+    "type": "stacked_bar",
+    "title": "堆叠柱状图",
+    "specification": "09-stacked_bar.json"
+  },
+  {
+    "stem": "10-grouped_stacked_bar",
+    "type": "grouped_stacked_bar",
+    "title": "分组堆叠柱状图",
+    "specification": "10-grouped_stacked_bar.json"
+  },
+  {
+    "stem": "11-diverging_bar",
+    "type": "diverging_bar",
+    "title": "正负发散条形图",
+    "specification": "11-diverging_bar.json"
+  },
+  {
+    "stem": "12-lollipop",
+    "type": "lollipop",
+    "title": "棒棒糖排序图",
+    "specification": "12-lollipop.json"
+  },
+  {
+    "stem": "13-scatter_regression",
+    "type": "scatter_regression",
+    "title": "散点回归与置信带",
+    "specification": "13-scatter_regression.json"
+  },
+  {
+    "stem": "14-bubble_scatter",
+    "type": "bubble_scatter",
+    "title": "气泡散点图",
+    "specification": "14-bubble_scatter.json"
+  },
+  {
+    "stem": "15-box",
+    "type": "box",
+    "title": "箱线比较图",
+    "specification": "15-box.json"
+  },
+  {
+    "stem": "16-raincloud",
+    "type": "raincloud",
+    "title": "雨云与半小提琴图",
+    "specification": "16-raincloud.json"
+  },
+  {
+    "stem": "17-histogram_kde",
+    "type": "histogram_kde",
+    "title": "直方图与核密度",
+    "specification": "17-histogram_kde.json"
+  },
+  {
+    "stem": "18-ecdf_threshold",
+    "type": "ecdf_threshold",
+    "title": "累积概率与阈值分区",
+    "specification": "18-ecdf_threshold.json"
+  },
+  {
+    "stem": "19-confusion_matrix",
+    "type": "confusion_matrix",
+    "title": "归一化混淆矩阵",
+    "specification": "19-confusion_matrix.json"
+  },
+  {
+    "stem": "20-annotated_table",
+    "type": "annotated_table",
+    "title": "着色统计表",
+    "specification": "20-annotated_table.json"
+  },
+  {
+    "stem": "21-matrix_marginals",
+    "type": "matrix_marginals",
+    "title": "样本矩阵与边际合计",
+    "specification": "21-matrix_marginals.json"
+  },
+  {
+    "stem": "22-coefficient_paths",
+    "type": "coefficient_paths",
+    "title": "正则化系数路径",
+    "specification": "22-coefficient_paths.json"
+  },
+  {
+    "stem": "23-cv_curve",
+    "type": "cv_curve",
+    "title": "交叉验证与一标准误差规则",
+    "specification": "23-cv_curve.json"
+  },
+  {
+    "stem": "24-volcano",
+    "type": "volcano",
+    "title": "特征筛选火山图",
+    "specification": "24-volcano.json"
+  },
+  {
+    "stem": "25-donut",
+    "type": "donut",
+    "title": "环形构成图",
+    "specification": "25-donut.json"
+  },
+  {
+    "stem": "26-scalp_topography",
+    "type": "scalp_topography",
+    "title": "头皮通道节点分布图",
+    "specification": "26-scalp_topography.json"
+  },
+  {
+    "stem": "27-region_map",
+    "type": "region_map",
+    "title": "区域轮廓与脑区示意图",
+    "specification": "27-region_map.json"
+  },
+  {
+    "stem": "28-flowchart",
+    "type": "flowchart",
+    "title": "流程与概念关系图",
+    "specification": "28-flowchart.json"
+  },
+  {
+    "stem": "29-frequency_bands",
+    "type": "frequency_bands",
+    "title": "频段波形图",
+    "specification": "29-frequency_bands.json"
+  },
+  {
+    "stem": "30-equation_panel",
+    "type": "equation_panel",
+    "title": "分布与公式解释图",
+    "specification": "30-equation_panel.json"
+  }
+]

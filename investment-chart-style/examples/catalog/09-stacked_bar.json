@@ -1,0 +1,53 @@
+{
+  "type": "stacked_bar",
+  "title": "堆叠柱状图",
+  "source": "统一风格图集 · 模拟数据 · 随机种子 20261117",
+  "note": "模拟数据，用于展示统一风格及该类图表的生成接口。",
+  "data": {
+    "labels": [
+      "Session 1",
+      "Session 2",
+      "Session 3"
+    ],
+    "series": [
+      {
+        "name": "neutral",
+        "values": [
+          90,
+          90,
+          90
+        ]
+      },
+      {
+        "name": "sad",
+        "values": [
+          90,
+          90,
+          90
+        ]
+      },
+      {
+        "name": "fear",
+        "values": [
+          90,
+          90,
+          90
+        ]
+      },
+      {
+        "name": "happy",
+        "values": [
+          90,
+          90,
+          90
+        ]
+      }
+    ]
+  },
+  "figsize": [
+    9,
+    5.8
+  ],
+  "xlabel": "会话",
+  "ylabel": "样本数"
+}

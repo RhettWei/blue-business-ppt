@@ -1,0 +1,4 @@
+interface:
+  display_name: "蓝色商务答辩 PPT"
+  short_description: "制作蓝色商务风格的案例答辩 PPT，先审 PNG，确认后交可编辑文件"
+  default_prompt: "使用 $blue-business-ppt 制作案例答辩 PPT，先交 PNG 审核，确认后生成可编辑 PPTX。"

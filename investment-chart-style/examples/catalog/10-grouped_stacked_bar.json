@@ -1,0 +1,79 @@
+{
+  "type": "grouped_stacked_bar",
+  "title": "分组堆叠柱状图",
+  "source": "统一风格图集 · 模拟数据 · 随机种子 20261117",
+  "note": "模拟数据，用于展示统一风格及该类图表的生成接口。",
+  "data": {
+    "labels": [
+      "pTE",
+      "cTE",
+      "non-TE"
+    ],
+    "groups": [
+      {
+        "name": "H4",
+        "series": [
+          {
+            "name": "组分 A",
+            "values": [
+              38,
+              24,
+              47
+            ]
+          },
+          {
+            "name": "组分 B",
+            "values": [
+              7,
+              6,
+              9
+            ]
+          },
+          {
+            "name": "组分 C",
+            "values": [
+              9,
+              5,
+              12
+            ]
+          }
+        ]
+      },
+      {
+        "name": "H3",
+        "series": [
+          {
+            "name": "组分 A",
+            "values": [
+              42,
+              23,
+              43
+            ]
+          },
+          {
+            "name": "组分 B",
+            "values": [
+              8,
+              5,
+              10
+            ]
+          },
+          {
+            "name": "组分 C",
+            "values": [
+              7,
+              6,
+              9
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "figsize": [
+    9,
+    5.8
+  ],
+  "xlabel": "分组",
+  "ylabel": "比例（%）"
+}

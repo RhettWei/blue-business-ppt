@@ -1,0 +1,4 @@
+interface:
+  display_name: "投研与科研图表设计"
+  short_description: "用统一蓝金风格制作 30 类投研与科研图表，覆盖统计分析、矩阵、区域和流程示意"
+  default_prompt: "使用 $investment-chart-style 根据我的数据选择合适的图形，按统一蓝金风格生成图表，输出 PNG、SVG、PDF 和可复现脚本。"
