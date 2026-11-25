@@ -35,17 +35,52 @@ skills/
 
 ## 例图
 
-以下为用户提供的案例答辩手改稿中的内容页，用于展示构图和版式。图中项目资料属于对应案例语境，制作其他主题时应使用任务自身的资料和数据。
+以下为用户提供的 16 页案例答辩手改稿中的内容页，展示构图和版式。图中项目资料属于对应案例语境，制作其他主题时应使用任务自身的资料和数据。
 
-| 页码 | 示例 | 页码 | 示例 |
-|---|---|---|---|
-| 03 | [经营与业务分析](examples/slide-03.png) | 04 | [业务对比](examples/slide-04.png) |
-| 05 | [组织与业务流程](examples/slide-05.png) | 06 | [数字化与价值核算](examples/slide-06.png) |
-| 07 | [运营机制](examples/slide-07.png) | 09 | [市场背景与政策](examples/slide-09.png) |
-| 10 | [现象分析](examples/slide-10.png) | 11 | [指标与绩效问题](examples/slide-11.png) |
-| 12 | [问题与理论](examples/slide-12.png) | 14 | [跨单位协同方案](examples/slide-14.png) |
-| 15 | [项目工作台方案](examples/slide-15.png) | 16 | [项目指标方案](examples/slide-16.png) |
+### 03｜经营与业务分析
 
-![业务对比示例](examples/slide-04.png)
+![第 03 页 经营与业务分析](examples/slide-03.png)
 
-![项目工作台示例](examples/slide-15.png)
+### 04｜业务对比
+
+![第 04 页 业务对比](examples/slide-04.png)
+
+### 05｜组织与业务流程
+
+![第 05 页 组织与业务流程](examples/slide-05.png)
+
+### 06｜数字化与价值核算
+
+![第 06 页 数字化与价值核算](examples/slide-06.png)
+
+### 07｜运营机制
+
+![第 07 页 运营机制](examples/slide-07.png)
+
+### 09｜市场背景与政策
+
+![第 09 页 市场背景与政策](examples/slide-09.png)
+
+### 10｜现象分析
+
+![第 10 页 现象分析](examples/slide-10.png)
+
+### 11｜指标与绩效问题
+
+![第 11 页 指标与绩效问题](examples/slide-11.png)
+
+### 12｜问题与理论
+
+![第 12 页 问题与理论](examples/slide-12.png)
+
+### 14｜跨单位协同方案
+
+![第 14 页 跨单位协同方案](examples/slide-14.png)
+
+### 15｜项目工作台方案
+
+![第 15 页 项目工作台方案](examples/slide-15.png)
+
+### 16｜项目指标方案
+
+![第 16 页 项目指标方案](examples/slide-16.png)
